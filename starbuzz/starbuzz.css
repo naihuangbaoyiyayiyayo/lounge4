@@ -88,3 +88,16 @@ div#tableContainer{
   padding:15px;
   vertical-align:top;
 }
+#award {
+  position: absolute;
+  top:       30px;
+  left:    365px;
+}
+#coupon {
+  position: fixed;
+  top:350px;
+  left:0px;
+}
+#coupon a,img{
+  border:none;
+}
